@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "googleapis": "^105.0.0",
+    "promise-poller": "^1.9.1",
+    "puppeteer": "^19.0.0",
+    "request-promise-native": "^1.0.9",
+    "temp-email": "^2.0.1",
+    "temp-mail-api": "^1.1.1"
+  }
+}
